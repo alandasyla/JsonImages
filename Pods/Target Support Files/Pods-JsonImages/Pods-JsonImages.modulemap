@@ -1,0 +1,6 @@
+framework module Pods_JsonImages {
+  umbrella header "Pods-JsonImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
